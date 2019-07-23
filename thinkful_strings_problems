@@ -1,0 +1,41 @@
+#I solved the same way
+
+def hello(name):
+    return 'Hello, ' + name.capitalize()
+
+#---------------------------------
+#I solved the same way
+
+def quotable(name, quote):
+    return name + ' said: ' + '"' + quote + '"'
+
+#---------------------------------
+#I solved the same way
+
+def repeater(string, n):
+    return string * n
+
+#---------------------------------
+#I solved using less optimal solution than this
+
+def repeater(string, n):
+    return '\"{}\" repeated {} times is: \"{}\"'.format(string, n, string*n)
+
+#---------------------------------
+#I solved the same way
+
+def greet_jedi(first, last):
+    return "Greetings, master {}{}".format(last[:3].capitalize(),first[:2].capitalize())
+
+#---------------------------------
+#I could not solve the problem
+
+def area_code(text):
+    return text[text.find('(')+1:text.find(')')]
+
+#---------------------------------
+#I could not solve the problem
+def format_poem(poem):
+    return '.\n'.join(poem.split('. '))
+
+#I had trouble because I did not include the space in the argument passed to the split method. 
