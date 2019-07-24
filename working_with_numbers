@@ -1,0 +1,41 @@
+#----------------
+#*I solved the same way*
+
+def celsius_to_romer(temp):
+    return temp*(21/40)+7.5
+#----------------
+#*I solved the same way*
+
+def is_divisible(wall_length, pixel_size):
+    return wall_length%pixel_size == 0
+#----------------
+#*I solved the same way*
+
+def guess_blue(blue_start, red_start, blue_pulled, red_pulled):
+    blue_remaining = blue_start - blue_pulled
+    red_remaining = red_start - red_pulled
+    return blue_remaining / (blue_remaining + red_remaining)
+
+#----------------
+#*I solved this way*
+
+def box_capacity(length, width, height):
+    box_side = 16/12
+    x = length//box_side
+    y = width//box_side
+    z = height//box_side
+    capacity = x*y*z
+    return capacity
+
+#*cleaner version* 
+def box_capacity(length, width, height):
+	Box_side = 12//16
+    return (length * Box_side) * (width * Box_side) * (height * Box_side)
+
+#----------------
+#*I solved this way*
+
+def quadratic_formula(a, b, c):
+    root1 = (-b + (b**2-4*a*c)**.5)/(2*a)
+    root2 = (-b - (b**2-4*a*c)**.5)/(2*a)
+    return [root1, root2]
