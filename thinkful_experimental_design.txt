@@ -1,0 +1,61 @@
+Does a new supplement help people sleep better?
+
+Two versions
+A: Group given new supplement
+B: Group given placebo. 
+
+Sample: For consistency use people around the sample age, around the same weight, and of the same sex. 
+
+Hypothesis: I expect people who take the supplement will sleep better. 
+
+Outcomes: Track the sleep quality of our sample by having people wear a fit-bit that measures sleep quality via heartrate. 
+
+Other measured variables: Ask people how long they slept, if they felt refreshed, etc, use these as secondary metrics. 
+
+----------------------------------------------
+
+Will new uniforms help a gym's business? 
+
+Two versions
+A: Gym employees wear new uniform
+B: Gym employees wear old uniform 
+
+Sample: Select a span of 3 months away from major holidays like new years that might be times around which we have high influx of signups. 
+
+Hypothesis: I expect more people will sign up when employees wear new uniforms. 
+
+Outcomes: Track the amount of new members who sign up for the gym.  
+
+Other measured variables: Measure the day of the week and time of day that people sign up as secondary metrics. 
+
+----------------------------------------------
+
+Will a new homepage improve my online exotic pet rental business? 
+
+Two versions
+A: New Homepage
+B: Old Homepage 
+
+Sample: Users that visit the website.  
+
+Hypothesis: The new homepage will lead to more exotic pet rentals. 
+
+Outcomes: Track the amount of exotic pets that were rented.
+
+Other measured variables: Do users spend more time on the website? Are they more likely to browse for more exotic pets? Are previously ignored pets being looked at now?
+
+----------------------------------------------
+
+If I put 'please read' in the email subject will more people read my emails? 
+
+Two versions
+A: Email subject with please read
+B: Email subject without please read 
+
+Sample: People who I send emails to. 
+
+Hypothesis: Please read will result in more people who read the email. 
+
+Outcomes: Track the amount of people who open the email and keep it open for a few minutes. 
+
+Other measured variables: Do more people open the email?
