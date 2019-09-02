@@ -1,0 +1,29 @@
+You're testing advertising emails for a bathing suit company and you test one version of the email in February and the other in May.
+
+Bias: The month during which you run each test can bias the results. People will likely be looking for swimwear in sunny May and not in frigid February. 
+
+Initial design: The initial design of the experiment was to test the response rate to two versions of an email. They would need to be sent during similar times to be tested properly. 
+
+---------------------------
+
+You open a clinic to treat anxiety and find that the people who visit show a higher rate of anxiety than the general population.
+
+Bias: If you only sample and test people at a clinic for anxiety they will be much more likely to show symptoms of anxiety than the general population because their anxiety is the reason they are at the clinic. 
+
+Initial design: It would be better to test the general population as a comparison so that you can see if the sample taken from the clinic is significantly higher than the regular population. 
+
+---------------------------
+
+You launch a new ad billboard based campaign and see an increase in website visits in the first week.
+
+Bias: You may only be targeting people who are exposed to the billboard. This may increase the number of commuters for example in your population because they may see more billboards during their day. 
+
+Initial design: It is important to keep the study going for longer than a week to see the effects of the campaign. It may turn out that the billboards work in the long term or only result in a short burst of new viewers. 
+
+---------------------------
+
+You launch a loyalty program but see no change in visits in the first week.
+
+Bias: you should keep the test going for longer than a week. It is possible that the loyalty program works but we do not see any results until later. 
+
+ 
